@@ -1,2 +1,2 @@
-# c---kafka-demo
+# kafka-demo
 A usage for c++ kafka client.
